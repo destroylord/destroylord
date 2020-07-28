@@ -5,20 +5,26 @@
 ?>
 ```
 
-# Jangan ditanya, aku ini Ganteng
+# Mencari jodoh yang sholehah dan bisa jadi ibu rumah tangga
+###### Website pribadi aku [Klik link ini](https://dafrinmaulana.xyz/).
 
+
+## Basic
 - [x] HTML
 - [x] CSS
 - [x] PHP
 - [x] Javascript
+- [ ] Golang
+- [ ] Ruby
+- [ ] Python
 
 ## Framework
 - Laravel
 - Bootstrap
-- Codeigniter v3
+- Codeigniter v3.1 (HMVC)
 
 
-> If you fail then it's not a problem but a test that must be completed.
+> If you fail then it's not a problem but a test to be taken.
 
 **
 Here are some ideas to get you started:
