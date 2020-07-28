@@ -1,7 +1,7 @@
 ### Hi All 👋
 ```
 <?php
-  echo "Hello world!! I'm Newbie learning programming PHP";
+  echo "Hello world!! I'm Newbie learning programming Website developer";
 ?>
 ```
 
