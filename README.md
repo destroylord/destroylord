@@ -15,7 +15,7 @@ Selama ini keahlian saya tidak seberapa tetapi saya akan berusaha untuk upgrade 
 - javascript
 - php
 
-## Framework
+### Framework
 - Bootstrap
 - Codeigniter v3.1
 - Laravel
