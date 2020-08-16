@@ -29,4 +29,3 @@ Ada goal yang saya  impikan yaitu menjadi fullstack web developer dan masih bany
 ## kontak saya jika anda butuh
 
 - No Whatsapp : +6282335623028
-- Instagram   : https://www.instagram.com/fdm_0301/
