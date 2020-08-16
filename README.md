@@ -2,15 +2,23 @@
 
 ## Hi semua
 
-Perkenalkan saya Fahmi Dafrin Maulana berasal dari negara Indonesia, Saya telah belajar programming 4 tahun, programming bukan hanya sekedar pelajaran bagi saya tetapi sebagai hobby dan selain itu saya bangga dengan pembelajaran programming ini karena susah senangnya telah saya rasakan.
+Perkenalkan saya Fahmi Dafrin Maulana berasal dari negara Indonesia di Kota Bondowoso, Jawa Timur, Saya telah belajar programming -+ 4 tahun, programming bukan hanya sekedar pelajaran bagi saya tetapi sebagai hobby dan selain itu saya bangga dengan pembelajaran programming ini karena susah senangnya telah saya rasakan.
 
 Selama ini keahlian saya tidak seberapa tetapi saya akan berusaha untuk upgrade terus skill saya seiring berjalannya waktu.
 
-Skill yang saya kuasai selama ini seperti :
+## Pendidikan
+- SMKN 1 BONDOWOSO (Rekayasa Perangkat Lunak)
+
+### Skill yang saya kuasai selama ini seperti :
 - html
 - css
 - javascript
 - php
+
+## Framework
+- Bootstrap
+- Codeigniter v3
+- Laravel
 
 Ada goal yang saya  impikan yaitu menjadi fullstack web developer dan masih banyak hal yang belum saya pelajari tetapi itu bukan sebuah halangan melainkan sebuah semangat yang menjadi sesuatu kesuksesan bagi diri saya sendiri.
 
