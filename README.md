@@ -8,6 +8,7 @@ Selama ini keahlian saya tidak seberapa tetapi saya akan berusaha untuk upgrade 
 
 ## Pendidikan
 - SMKN 1 BONDOWOSO (Rekayasa Perangkat Lunak)
+- Teknik Informatika Polije Kampus Bondowoso (saat ini)
 
 ### Skill yang saya kuasai selama ini seperti :
 - html
