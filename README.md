@@ -18,7 +18,6 @@ Selama ini keahlian saya tidak seberapa tetapi saya akan berusaha untuk upgrade 
 
 ### Framework
 - Bootstrap
-- Codeigniter v3.1
 - Laravel
 
 Ada goal yang saya  impikan yaitu menjadi fullstack web developer dan masih banyak hal yang belum saya pelajari tetapi itu bukan sebuah halangan melainkan sebuah semangat yang menjadi sesuatu kesuksesan bagi diri saya sendiri.
