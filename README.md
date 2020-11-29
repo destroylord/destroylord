@@ -2,6 +2,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=destroylord&show_icons=true&theme=slateorange)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destroylord)](https://github.com/destroylord/github-readme-stats)
+
+
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://dafrinmaulana.xyz/">my personal website</a>
 - ⚡ Excited to create open-source projects
@@ -11,11 +14,3 @@
 - 📫 You can reach me at masapin68@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destroylord)](https://github.com/destroylord/github-readme-stats)
-
-
-## Another pin
-
-<a href="https://github.com/destroylord/hello-world">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=destroylord&repo=github-readme-stats&theme=slateorange">
-</a>
