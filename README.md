@@ -14,4 +14,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destroylord)](https://github.com/destroylord/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=destroylord&repo=github-readme-stats&theme=slateorange)](https://github.com/destroylord/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=destroylord&repo=github-readme-stats&theme=slateorange)](https://github.com/destroylord/hello-world/edit/master/README.md)
