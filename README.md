@@ -5,6 +5,8 @@
 
 <img align="right" height="200" alt="GIF" src="https://github.com/destroylord/form-login/blob/master/dist/img/pacote-fullstack-danki-code.gif" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=destroylord&show_icons=true&theme=dracula" width="400">
+
 - ⚡ Excited to create open-source projects
 - 🌱 I’m currently learning Laravel and reactjs
 - 😄 I'm natively speak Indonesian
@@ -12,7 +14,7 @@
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://dafrinmaulana.xyz/">my personal website</a>
 - 📫 You can reach me at masapin68@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=destroylord&show_icons=true&theme=dracula" width="400">
+
 
 
 #### Contact me
