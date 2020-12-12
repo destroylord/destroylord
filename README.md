@@ -6,10 +6,10 @@
 
 
 - ⚡ Excited to create open-source projects
-- 🔭 I’m currently working on my personal projects, you can check <a href="https://dafrinmaulana.xyz/">my personal website</a>
 - 🌱 I’m currently learning Laravel and reactjs
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Laravel
+- 🔭 I’m currently working on my personal projects, you can check <a href="https://dafrinmaulana.xyz/">my personal website</a>
 - 📫 You can reach me at masapin68@gmail.com
 
 
