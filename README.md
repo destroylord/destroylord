@@ -2,8 +2,6 @@
     Hi there 👋 I'm Dafrin 👨‍💻
 </h1>
 
-[![@destroylord's Holopin board](https://holopin.io/api/user/board?user=destroylord)](https://holopin.io/@destroylord)
-
 <img align="right" height="200" alt="GIF" src="https://github.com/destroylord/form-login/blob/master/dist/img/pacote-fullstack-danki-code.gif" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=destroylord&show_icons=true&theme=dracula" width="400">
