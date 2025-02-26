@@ -11,10 +11,3 @@
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently falling in love with Laravel
 
-
-
-
-#### Contact me
-  <a href="https://www.facebook.com/dafrin.maulana.98/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
